@@ -133,15 +133,6 @@ By default, `SIMULATION_MODE=true` is enabled:
 * Real-time prices are fetched live from Polymarket's production order books.
 * When mispricings or trading opportunities occur, the engine prints simulated transaction receipts, calculates exact P&L yields, and measures execution latency without touching your wallet balance.
 
----
-
-## 🏷️ GitHub Repository SEO & Discovery Topics
-
-Configure your repository's **About -> Topics** section with:
-```text
-polymarket, trading-bot, arbitrage, prediction-markets, clob, 
-crypto-trading, polygon, algorithmic-trading, python, quantitative-finance
-```
 
 ---
 
