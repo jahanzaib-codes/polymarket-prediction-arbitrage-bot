@@ -11,10 +11,9 @@
 
 ### 💼 Need Custom Prediction Market Bots, CLOB Connectors, or Arbitrage Engines?
 I build institutional prediction market bots, event-driven arbitrage systems, and cross-platform hedging engines (Polymarket, Kalshi, Betfair).
-* 💬 **Telegram:** [@jahanzaib_codes](https://t.me/jahanzaib_codes)
-* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com)
-* 📧 **Email:** `jahanzaib.remotehub@gmail.com`
-* ⚡ **Discord:** `jahanzaib_codes`
+* 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
+* 💼 **Upwork Profile:** [Upwork Verified Algorithmic Specialist](https://www.upwork.com/freelancers/~JanzebBlockdev)
+* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -152,3 +151,4 @@ crypto-trading, polygon, algorithmic-trading, python, quantitative-finance
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
