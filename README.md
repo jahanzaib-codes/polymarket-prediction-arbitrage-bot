@@ -1,4 +1,4 @@
-# ⚡ Polymarket Prediction Market & Arbitrage Trading Bot
+﻿# ⚡ Polymarket Prediction Market & Arbitrage Trading Bot
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Polymarket](https://img.shields.io/badge/Polymarket-CLOB_API-121D33?style=flat-square)](https://polymarket.com)
@@ -12,7 +12,7 @@
 ### 💼 Need Custom Prediction Market Bots, CLOB Connectors, or Arbitrage Engines?
 I build institutional prediction market bots, event-driven arbitrage systems, and cross-platform hedging engines (Polymarket, Kalshi, Betfair).
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* 💼 **Fiverr Profile:** [jahanzaib313110 (Fiverr Specialist)](https://www.fiverr.com/jahanzaib313110)
+* 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://tinyurl.com/2wruxnsx)
 * 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
@@ -141,4 +141,5 @@ By default, `SIMULATION_MODE=true` is enabled:
 
 ---
 *Maintained by **Jahanzaib** ([@jahanzaib-codes](https://github.com/jahanzaib-codes))*
+
 
